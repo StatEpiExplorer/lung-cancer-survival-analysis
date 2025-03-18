@@ -1,0 +1,2 @@
+[1] "Median Survival Time:"
+[1] "The median survival time: 310 days."

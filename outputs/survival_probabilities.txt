@@ -1,0 +1,4 @@
+[1] "Survival Probabilities at Specific Time Points:"
+[1] "Survival at time t = 0: 0.995614035087719"
+[1] "Survival at time t = 11: 0.982"
+[1] "Survival at time t = 13: 0.969"
